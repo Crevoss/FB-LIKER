@@ -10,7 +10,7 @@ $pkg install git
 
 $pkg install python
 
-$https://github.com/Crevoss/FB-LIKER.git
+$git clone https://github.com/Crevoss/FB-LIKER.git
 
 $cd fblf
 
